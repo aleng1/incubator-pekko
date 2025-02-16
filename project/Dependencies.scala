@@ -31,7 +31,7 @@ object Dependencies {
   val agronaVersion = "1.19.2"
   val nettyVersion = "4.1.104.Final"
   val protobufJavaVersion = "3.20.3"
-  val logbackVersion = "1.3.14"
+  val logbackVersion = "1.3.15"
 
   val jacksonCoreVersion = "2.16.1"
   val jacksonDatabindVersion = jacksonCoreVersion

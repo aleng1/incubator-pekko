@@ -122,7 +122,7 @@ object Dependencies {
     val jacksonCbor = Def.setting {
       "com.fasterxml.jackson.dataformat" % "jackson-dataformat-cbor" % jacksonCoreVersion
     } // ApacheV2
-    val lz4Java = "org.lz4" % "lz4-java" % "1.8.0"
+    val lz4Java = "org.lz4" % "lz4-java" % "1.8.1"
 
     val logback = "ch.qos.logback" % "logback-classic" % logbackVersion
 

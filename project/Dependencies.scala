@@ -165,7 +165,7 @@ object Dependencies {
       val tinybundles = "org.ops4j.pax.tinybundles" % "tinybundles" % "3.0.0" % Test
 
       // in-memory filesystem for file related tests
-      val jimfs = "com.google.jimfs" % "jimfs" % "1.3.0" % Test
+      val jimfs = "com.google.jimfs" % "jimfs" % "1.3.1" % Test
 
       val dockerClient = Def.setting {
         Seq(
